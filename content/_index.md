@@ -42,7 +42,7 @@ sections:
         - title: Assistant Professor
           company: Universidad Autónoma de Madrid
           company_url: ''
-          company_logo: org-x
+          company_logo: org-uam
           location: Madrid
           date_start: '2023-01-01'
           date_end: ''
@@ -54,7 +54,7 @@ sections:
         - title: Pre-doctoral Assistant Professor
           company: Universidad Autónoma de Madrid
           company_url: ''
-          company_logo: org-x
+          company_logo: org-uam
           location: Madrid
           date_start: '2019-09-01'
           date_end: '2022-12-31'
@@ -67,7 +67,7 @@ sections:
         - title: IT Manager
           company: Ingeniería y Prevención de Riesgos, S.L.
           company_url: 'https://www.imasp.net'
-          company_logo: org-gc
+          company_logo: org-i+p
           location: Madrid
           date_start: '2008-07-21'
           date_end: '2015-02-28'
@@ -82,6 +82,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -148,6 +149,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
