@@ -1,6 +1,6 @@
 ---
 widget: landing
-widget_id: homepage
+widget_id: authors
 headless: true
 weight: 10
 title: Pablo Gómez-Abajo
