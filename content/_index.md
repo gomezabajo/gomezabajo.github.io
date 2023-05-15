@@ -169,7 +169,7 @@ sections:
       text: |-
         You can use the below data to contact Pablo Gómez-Abajo whenever you like.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: pablo.gomeza@uam.es
       phone: +34 91 497 2358
       appointment_url: 'https://calendly.com'
       address:
