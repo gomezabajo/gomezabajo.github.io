@@ -147,25 +147,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -186,10 +167,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        You can use the below data to contact Pablo Gómez-Abajo whenever you like.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
-      phone: 888 888 88 88
+      phone: +34 91 497 2358
       appointment_url: 'https://calendly.com'
       address:
         street: C/ Francisco Tomás y Valiente, 11
@@ -199,18 +180,15 @@ sections:
         country: Spain
         country_code: ES
       directions: Office B-424
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/GomezAbajo_en'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'skype:pgomez.imasp?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
