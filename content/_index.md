@@ -39,27 +39,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Assistant Professor
+          company: Universidad Autónoma de Madrid
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-x
+          location: Madrid
+          date_start: '2023-01-01'
           date_end: ''
+          description: |2-
+              Taught courses on:
+              
+              * operating systems
+              * internet and advanced networks
+        - title: Pre-doctoral Assistant Professor
+          company: Universidad Autónoma de Madrid
+          company_url: ''
+          company_logo: org-x
+          location: Madrid
+          date_start: '2019-09-01'
+          date_end: '2022-12-31'
+          description: |2-
+              Taught courses on:
+              
+              * compilers
+              * automata and languages theory
+              * software analysis and design
+        - title: IT Manager
+          company: Ingeniería y Prevención de Riesgos, S.L.
+          company_url: 'https://www.imasp.net'
+          company_logo: org-gc
+          location: Madrid
+          date_start: '2008-07-21'
+          date_end: '2015-02-28'
           description: |2-
               Responsibilities include:
 
+              * Requirements Engineering
               * Analysing
-              * Modelling
+              * Development
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * IT Support
     design:
       columns: '2'
   - block: accomplishments
@@ -100,33 +119,6 @@ sections:
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
       columns: '2'
   - block: portfolio
     id: projects
@@ -188,21 +180,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
@@ -215,13 +192,13 @@ sections:
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: C/ Francisco Tomás y Valiente, 11
+        city: Madrid
+        region: 
+        postcode: '28030'
+        country: Spain
+        country_code: ES
+      directions: Office B-424
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
