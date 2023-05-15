@@ -28,6 +28,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -47,10 +48,9 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: |2-
-              Taught courses on:
-              
-              * operating systems
-              * internet and advanced networks
+              Taught courses:
+              * Operating systems
+              * Internet and advanced networks
         - title: Pre-doctoral Assistant Professor
           company: Universidad Autónoma de Madrid
           company_url: ''
@@ -59,11 +59,10 @@ sections:
           date_start: '2019-09-01'
           date_end: '2022-12-31'
           description: |2-
-              Taught courses on:
-              
-              * compilers
-              * automata and languages theory
-              * software analysis and design
+              Taught courses:
+              * Compilers
+              * Automata and languages theory
+              * Software analysis and design
         - title: IT Manager
           company: Ingeniería y Prevención de Riesgos, S.L.
           company_url: 'https://www.imasp.net'
@@ -73,7 +72,6 @@ sections:
           date_end: '2015-02-28'
           description: |2-
               Responsibilities include:
-
               * Requirements Engineering
               * Analysing
               * Development
