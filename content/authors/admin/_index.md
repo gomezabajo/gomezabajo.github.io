@@ -1,7 +1,6 @@
 ---
 title: Pablo Gómez-Abajo
-role: Assistant Professor of the Computer Science Department of the Universidad
-  Autónoma de Madrid
+role: Assistant Professor
 avatar_filename: gomezabajo_2022_eps.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -33,6 +32,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
+  - name: Computer Science Department
+    url: https://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/home.htm
   - name: Universidad Autónoma de Madrid
     url: https://www.uam.es
 education:
