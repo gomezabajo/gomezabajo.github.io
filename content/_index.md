@@ -176,7 +176,7 @@ sections:
         street: C/ Francisco Tomás y Valiente, 11
         city: Madrid
         region: 
-        postcode: '28030'
+        postcode: '28049'
         country: Spain
         country_code: ES
       directions: Office B-424
