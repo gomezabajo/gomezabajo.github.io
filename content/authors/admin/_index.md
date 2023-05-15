@@ -1,84 +1,71 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Pablo Gómez-Abajo
+role: Assistant Professor of the Computer Science Department of the Universidad
+  Autónoma de Madrid
+avatar_filename: gomezabajo_2022_eps.png
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Software Engineerig
+  - Model-Driven Engineering
+  - Human-Computer Interaction
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/GomezAbajo_en
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gomezabajo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: Universidad Autónoma de Madrid
+      year: 2020
+    - course: MSc in Computer Science
+      institution: Universidad Autónoma de Madrid
+      year: 2016
+    - course: BSc in Computer Science
+      institution: Universidad Autónoma de Madrid
+      year: 2007
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Pablo Gómez-Abajo earned his Bachelor's in Computer Science and Engineering at the [Universidad Autónoma de Madrid](https://www.uam.es/) in 2006 with an average score of 7.4 out of 10.\
+\
+From 2008 to 2015, Pablo Gómez-Abajo worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://www.imasp.net/) During this time, he acquired high-level skills in developing solutions for professionals from other technological areas, such as civil engineers, mechanical engineers, and so on. This allows him to understand their needs and build the easiest solution.\
+\
+In 2015, he joined the [Modelling and Software Engineering research group](https://www.miso.es/) led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) within the Computer Science Department of the Universidad Autónoma de Madrid to keep improving his skills as an ICT professional. His research mainly involves designing and developing domain-specific languages and generic tools for domain experts.\
+\
+In 2016 he defended his final master's thesis, ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054) directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), with a special mention as its final mark.\
+\
+In 2020 he defended his Ph.D. in Computer Science and Engineering with the title ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951 "A domain-specific language for model mutation"), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), with the highest possible mark. He has been the author of 5 journal publications, the co-author of 1 book chapter, and has published at 9 international conferences.\
+\
+Since September 2019, Pablo Gómez-Abajo has been holding the position of Assistant Professor in the Computer Science Department of the Universidad Autónoma de Madrid. During this time, he has taught courses on "Compilers" (120h, from which 30h correspond to a group taught in the English language), "Automata and languages theory" (30h), and "Software analysis and design" (60h) from the Bachelor in Computer Science.\
+\
+He has directed four final projects of the degree: ''Un entorno para generación de juegos colaborativos mediante técnicas de modelado'' (2021), ''Generación automática de ejercicios para aplicaciones móviles'' (2021), "Un entorno para generación de gestores documentales" (2022), and "Generación y evaluación de ejercicios basados en diagramas para Apple iOS" (2022), all with a "notable" as their final mark.\
+\
+Pablo Gómez-Abajo speaks Spanish, English, and Portuguese fluently and can interact in French, German, Italian, and Arabic.
