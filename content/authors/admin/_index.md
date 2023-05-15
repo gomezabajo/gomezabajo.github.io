@@ -1,7 +1,7 @@
 ---
 title: Pablo Gómez-Abajo
 role: Assistant Professor
-avatar_filename: gomezabajo_2022_eps.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
