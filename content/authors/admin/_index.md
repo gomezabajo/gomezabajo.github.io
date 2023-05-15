@@ -46,7 +46,7 @@ education:
       year: 2016
     - course: BSc in Computer Science
       institution: Universidad Autónoma de Madrid
-      year: 2010
+      year: 2006
 superuser: true
 status:
   icon: ☕️
