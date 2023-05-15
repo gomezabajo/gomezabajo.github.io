@@ -27,7 +27,7 @@ social:
     link: https://github.com/gomezabajo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/gomezabajo
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -46,7 +46,7 @@ education:
       year: 2016
     - course: BSc in Computer Science
       institution: Universidad Autónoma de Madrid
-      year: 2007
+      year: 2010
 superuser: true
 status:
   icon: ☕️
