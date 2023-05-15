@@ -33,8 +33,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad Autónoma de Madrid
+    url: https://www.uam.es
 education:
   courses:
     - course: PhD in Computer Science
