@@ -136,10 +136,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Wodel
+          tag: Wodel
+        - name: Gotten
+          tag: Gotten
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
