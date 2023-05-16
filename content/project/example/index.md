@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: "Wodel: a domain-specific language for model mutation"
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Wodel
@@ -12,7 +12,7 @@ tags:
 links:
   - icon: check
     icon_pack: fas
-    name: See
+    name: Check
     url: https://gomezabajo.github.io/Wodel/
 image:
   caption: Photo by gomezabajo on Wodel
