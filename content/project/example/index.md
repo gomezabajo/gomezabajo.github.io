@@ -10,12 +10,12 @@ title: Wodel
 tags:
   - Wodel
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
+  - icon: check
+    icon_pack: fas
+    name: See
     url: https://gomezabajo.github.io/Wodel/
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by gomezabajo on Wodel
   focal_point: Smart
   filename: featured.jpg
 url_code: ""
