@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: "Wodel: a domain-specific language for model mutation"
+summary: A domain-specific language for model mutation
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
