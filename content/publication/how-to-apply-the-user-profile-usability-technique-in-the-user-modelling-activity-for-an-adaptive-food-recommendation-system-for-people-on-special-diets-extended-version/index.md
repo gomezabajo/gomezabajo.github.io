@@ -11,7 +11,7 @@ authors:
   - John W. Castro
 publication: Journal of Systemics Cybernetics and Informatics (JSCI 2017). Best
   papers of World Multi-Conference on Systemics, Cybernetics and Informatics
-  (WMSCI 2017).
+  (WMSCI 2017)
 draft: false
 featured: false
 # links:
