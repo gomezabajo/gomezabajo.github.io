@@ -2,14 +2,7 @@
 title: Gotten
 subtitle: Generic MDE framework fOr meTamorphic TEstiNg
 date: 2023-05-20T16:55:55.216Z
-summary: We propose a model-driven engineering approach to automate the
-  construction of Metamorphic Testing (MT) environments. Starting from a
-  meta-model capturing the domain concepts and a description of the domain
-  execution environment, our approach produces an MT environment featuring
-  comprehensive support for the MT process. This includes the definition of
-  domain-specific Metamorphic Relations (MRs), their evaluation, detailed
-  reporting of the testing results, and the automated search-based generation of
-  follow-up test cases.
+summary: Generic MDE framework fOr meTamorphic TEstiNg
 draft: false
 featured: false
 links:
@@ -23,4 +16,4 @@ image:
   preview_only: false
   caption: Gotten development environment
 ---
-Generic MDE framework fOr meTamorphic TEstiNg
+We propose a model-driven engineering approach to automate the construction of Metamorphic Testing (MT) environments. Starting from a meta-model capturing the domain concepts and a description of the domain execution environment, our approach produces an MT environment featuring comprehensive support for the MT process. This includes the definition of domain-specific Metamorphic Relations (MRs), their evaluation, detailed reporting of the testing results, and the automated search-based generation of follow-up test cases.
