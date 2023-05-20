@@ -11,9 +11,20 @@ draft: false
 featured: false
 projects:
   - Wodel
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'http://www.miso.es/pubs/Wodel.pdf'
+url_code: 'https://gomezabajo.github.io/Wodel/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-05-20T17:13:00.000Z
+date: 2016-04-06T17:13:00.000Z
 ---
