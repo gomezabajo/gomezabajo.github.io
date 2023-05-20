@@ -65,7 +65,7 @@ sections:
               * Software analysis and design
         - title: IT Manager
           company: Ingeniería y Prevención de Riesgos, S.L.
-          company_url: 'https://www.imasp.net'
+          company_url: 'https://imasp.net'
           company_logo: org-imasp
           location: Madrid
           date_start: '2008-07-21'
