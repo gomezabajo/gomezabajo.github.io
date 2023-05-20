@@ -16,6 +16,7 @@ links:
   - url: https://g0tten.github.io/gotten/
     icon_pack: fas
     icon: check
+    name: Check
 image:
   filename: gotten.png
   focal_point: Smart
