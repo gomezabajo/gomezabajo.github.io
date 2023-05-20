@@ -8,6 +8,8 @@ publication: Doctoral Symposium at the International Conference of Model-Driven
   Engineering Languages and Systems 2016 (MoDELS 2016), Saint-Malo
 draft: false
 featured: false
+projects:
+  - Wodel
 image:
   filename: featured
   focal_point: Smart
