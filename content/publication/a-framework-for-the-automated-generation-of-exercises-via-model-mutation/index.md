@@ -8,6 +8,8 @@ publication: Final master's thesis. Master’s Program (MSc) in ICT Research and
   Innovation, 2016. Universidad Autónoma de Madrid
 draft: false
 featured: false
+projects:
+  - Wodel
 image:
   filename: featured
   focal_point: Smart
