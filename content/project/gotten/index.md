@@ -1,5 +1,7 @@
 ---
 title: Gotten
+tags:
+  - Gotten
 subtitle: Generic MDE framework fOr meTamorphic TEstiNg
 date: 2023-05-20T16:55:55.216Z
 summary: Generic MDE framework fOr meTamorphic TEstiNg
