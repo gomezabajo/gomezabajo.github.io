@@ -11,6 +11,8 @@ publication: 7th International Summer School on Domain-Specific Modeling (DSM-TP
   2016), Genève
 draft: false
 featured: false
+projects:
+  - Wodel
 image:
   filename: featured
   focal_point: Smart
