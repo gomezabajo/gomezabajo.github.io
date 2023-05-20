@@ -9,6 +9,8 @@ authors:
 publication: Symposium on Applied Computing 2016 (SAC'16), Pisa (ACM). pp.:1968-1973
 draft: false
 featured: false
+projects:
+  - Wodel
 image:
   filename: featured
   focal_point: Smart
