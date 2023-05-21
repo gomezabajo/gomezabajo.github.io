@@ -18,15 +18,15 @@ sections:
         - name: Java
           description: 90%
           icon: java
-          icon_pack: brands
+          icon_pack: fab
         - name: Eclipse
           description: 100%
           icon: eclipse
-          icon_pack: solid
+          icon_pack: fas
         - name: Software Engineering
           description: 80%
           icon: uncharted
-          icon_pack: brands
+          icon_pack: fab
   - block: experience
     id: experience
     content:
