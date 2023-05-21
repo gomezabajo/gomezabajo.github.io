@@ -11,9 +11,20 @@ publication: ACM SIGPLAN International Workshop on Domain-Specific Modeling (DSM
   2019), Athens
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://www.gomezabajo.es/pdf/DSM.2019.Wodel-Test.Tool-Demo.pdf'
+url_code: 'https://gomezabajo.github.io/Wodel/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-05-21T18:23:12.597Z
+date: 2019-10-31T18:23:12.597Z
 ---
