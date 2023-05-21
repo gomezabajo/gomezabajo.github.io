@@ -21,7 +21,7 @@ sections:
           icon_pack: fab
         - name: Eclipse
           description: 100%
-          icon: eclipse
+          icon: lightbulb-gear
           icon_pack: far
         - name: Software Engineering
           description: 80%
