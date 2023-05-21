@@ -12,6 +12,17 @@ authors:
 publication: International Conference on Software Engineering (ICSE 2018), Gothenburg
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://www.gomezabajo.es/pdf/ICSE_Poster_from_Research_Track_2018_3_complete.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 image:
   filename: featured
   focal_point: Smart
