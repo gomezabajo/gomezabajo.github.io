@@ -57,7 +57,7 @@ sections:
           company_logo: org-uam
           location: Madrid
           date_start: '2019-09-01'
-          date_end: '2022-12-31'
+          date_end: '2023-01-01'
           description: |2-
               Taught courses:
               * Compilers
