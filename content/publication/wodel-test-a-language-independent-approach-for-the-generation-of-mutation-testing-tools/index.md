@@ -15,7 +15,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.gomezabajo.es/pdf/FOC-IMDEA.2019.Wodel-Test.pdf'
+url_pdf: 'https://www.gomezabajo.es/pdf/FOC-IMDEA.2019_presentation.pdf'
 url_code: 'https://gomezabajo.github.io/Wodel/'
 url_dataset: ''
 url_poster: ''
