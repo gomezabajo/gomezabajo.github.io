@@ -22,7 +22,7 @@ sections:
         - name: Eclipse
           description: 100%
           icon: eclipse
-          icon_pack: fas
+          icon_pack: far
         - name: Software Engineering
           description: 80%
           icon: uncharted
