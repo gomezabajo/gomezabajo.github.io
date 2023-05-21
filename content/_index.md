@@ -42,7 +42,7 @@ sections:
       items:
         - title: Assistant Professor
           company: Universidad Autónoma de Madrid
-          company_url: ''
+          company_url: 'https://www.uam.es'
           company_logo: org-uam
           location: Madrid
           date_start: '2023-01-01'
@@ -53,7 +53,7 @@ sections:
               * Internet and advanced networks
         - title: Pre-doctoral Assistant Professor
           company: Universidad Autónoma de Madrid
-          company_url: ''
+          company_url: 'https://www.uam.es'
           company_logo: org-uam
           location: Madrid
           date_start: '2019-09-01'
@@ -73,7 +73,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Requirements Engineering
-              * Analysing
+              * Analysis and Design
               * Development
               * Deploying
               * IT Support
