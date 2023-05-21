@@ -63,13 +63,24 @@ sections:
               * Compilers
               * Automata and languages theory
               * Software analysis and design
+        - title: Research Project Associate
+          company: Universidad Autónoma de Madrid
+          company_url: 'https://www.uam.es'
+          company_logo: org-uam
+          location: Madrid
+          date_start: '2015-03-01'
+          date_end: '2019-09-01'
+          description: |2-
+              Design and development of:
+              * Domain-specific languages
+              * Domain-independent solutions
         - title: IT Manager
           company: Ingeniería y Prevención de Riesgos, S.L.
           company_url: 'https://imasp.net'
           company_logo: org-imasp
           location: Madrid
           date_start: '2008-07-21'
-          date_end: '2015-02-28'
+          date_end: '2015-03-01'
           description: |2-
               Responsibilities include:
               * Requirements Engineering
