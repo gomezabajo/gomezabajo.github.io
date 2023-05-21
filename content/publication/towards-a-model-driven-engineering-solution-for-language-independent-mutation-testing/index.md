@@ -12,6 +12,17 @@ publication: Jornadas de Ingeniería del Software y Bases de Datos 2018 (JISBD 2
 publication_short: ""
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://biblioteca.sistedes.es/submissions/descargas/2018/JISBD/2018-JISBD-055.pdf'
+url_code: 'https://gomezabajo.github.io/Wodel/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 projects:
   - Wodel
 image:
