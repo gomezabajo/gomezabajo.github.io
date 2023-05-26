@@ -16,7 +16,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167642318300261'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-58135-0_6'
 url_code: 'https://gomezabajo.github.io/Wodel/'
 url_dataset: ''
 url_poster: ''
