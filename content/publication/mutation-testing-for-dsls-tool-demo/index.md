@@ -7,8 +7,8 @@ authors:
   - Esther Guerra
   - Juan de Lara
   - Mercedes G. Merayo
-publication: ACM SIGPLAN International Workshop on Domain-Specific Modeling (DSM
-  2019), Athens
+publication: In *ACM SIGPLAN International Workshop on Domain-Specific Modeling (DSM
+  2019)*, Athens
 draft: false
 featured: false
 # links:
