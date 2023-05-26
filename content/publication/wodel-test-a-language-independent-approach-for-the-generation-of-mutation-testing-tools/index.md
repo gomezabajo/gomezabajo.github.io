@@ -8,7 +8,7 @@ authors:
   - Esther Guerra
   - Juan de Lara
   - Mercedes G. Merayo
-publication: Workshop on Software Reliability for Madrid Flight On Chip (2019).
+publication: In *Workshop on Software Reliability for Madrid Flight On Chip (2019)*.
   IMDEA Software Institute, Madrid
 draft: false
 featured: false
