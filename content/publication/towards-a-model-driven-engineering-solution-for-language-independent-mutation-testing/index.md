@@ -8,7 +8,7 @@ authors:
   - Esther Guerra
   - Juan de Lara
   - Mercedes G. Merayo
-publication: Jornadas de Ingeniería del Software y Bases de Datos 2018 (JISBD 2018), Sevilla
+publication: In *Jornadas de Ingeniería del Software y Bases de Datos 2018 (JISBD 2018)*, Sevilla
 publication_short: ""
 draft: false
 featured: false
