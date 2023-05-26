@@ -10,8 +10,8 @@ authors:
   - Pablo Gómez-Abajo
   - John W. Castro
 publication: In *Journal of Systemics Cybernetics and Informatics (JSCI 2017)*. Best
-  papers of *World Multi-Conference on Systemics, Cybernetics and Informatics*
-  (WMSCI 2017)
+  papers of *World Multi-Conference on Systemics, Cybernetics and Informatics
+  (WMSCI 2017)*
 draft: false
 featured: false
 # links:
