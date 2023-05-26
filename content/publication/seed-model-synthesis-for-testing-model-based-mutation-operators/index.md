@@ -7,15 +7,28 @@ authors:
   - Esther Guerra
   - Juan de Lara
   - Mercedes G. Merayo
-publication: International Conference on Advanced Information Systems
-  Engineering (CAiSE Forum 2020), Grenoble. Lecture Notes in Business
+publication: In *International Conference on Advanced Information Systems
+  Engineering (CAiSE Forum 2020)*, Grenoble. Lecture Notes in Business
   Information Processing (Springer), Vol 386 (August). pp.:64-76
 abstract: abstract
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167642318300261'
+url_code: 'https://gomezabajo.github.io/Wodel/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+projects:
+  - Wodel
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-05-26T13:17:38.851Z
+date: 2020-06-30T13:17:38.851Z
 ---
