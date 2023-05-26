@@ -6,7 +6,7 @@ authors:
   - Pablo Gómez-Abajo
   - Esther Guerra
   - Juan de Lara
-publication: Symposium on Applied Computing 2016 (SAC'16), Pisa (ACM). pp.:1968-1973
+publication: In *Symposium on Applied Computing 2016 (SAC'16), Pisa (ACM)*. pp.:1968-1973
 draft: false
 featured: false
 projects:
