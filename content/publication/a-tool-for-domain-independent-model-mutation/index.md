@@ -7,7 +7,7 @@ authors:
   - Esther Guerra
   - Juan de Lara
   - Mercedes G. Merayo
-publication: Science of Computer Programming (Elsevier), Vol 163 (October). pp.:85-92
+publication: In *Science of Computer Programming (Elsevier)*, Vol 163 (October). pp.:85-92
 draft: false
 featured: false
 # links:
