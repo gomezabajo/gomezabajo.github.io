@@ -4,8 +4,8 @@ publication_types:
   - "3"
 authors:
   - Pablo Gómez-Abajo
-publication: Course 'Metodologías y problemas actuales de la investigación
-  científica' (2019), Universidad Autónoma de Madrid
+publication: In *Course 'Metodologías y problemas actuales de la investigación
+  científica' (2019)*, Universidad Autónoma de Madrid
 draft: false
 featured: false
 # links:
