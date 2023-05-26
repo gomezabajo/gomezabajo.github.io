@@ -9,7 +9,7 @@ authors:
   - Pablo Gómez-Abajo
   - John W. Castro
   - Silvia T. Acuña
-publication: International Conference on Software Engineering (ICSE 2018), Gothenburg
+publication: In *International Conference on Software Engineering (ICSE 2018)*, Gothenburg
 draft: false
 featured: false
 # links:
