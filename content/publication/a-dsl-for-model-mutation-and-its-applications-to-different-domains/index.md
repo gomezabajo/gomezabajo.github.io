@@ -4,8 +4,8 @@ publication_types:
   - "1"
 authors:
   - Pablo Gómez-Abajo
-publication: Doctoral Symposium at the International Conference of Model-Driven
-  Engineering Languages and Systems 2016 (MoDELS 2016), Saint-Malo
+publication: In *Doctoral Symposium at the International Conference of Model-Driven
+  Engineering Languages and Systems 2016 (MoDELS 2016)*, Saint-Malo
 draft: false
 featured: false
 url_pdf: 'http://ceur-ws.org/Vol-1735/paper4.pdf'
