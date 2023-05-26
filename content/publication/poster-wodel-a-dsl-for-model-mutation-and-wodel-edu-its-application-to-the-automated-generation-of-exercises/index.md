@@ -7,8 +7,8 @@ authors:
   - Pablo Gómez-Abajo
   - Esther Guerra
   - Juan de Lara
-publication: 7th International Summer School on Domain-Specific Modeling (DSM-TP
-  2016), Genève
+publication: In *7th International Summer School on Domain-Specific Modeling (DSM-TP
+  2016)*, Genève
 draft: false
 featured: false
 # links:
