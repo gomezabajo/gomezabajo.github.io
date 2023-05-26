@@ -10,6 +10,7 @@ authors:
 publication: International Conference on Advanced Information Systems
   Engineering (CAiSE Forum 2020), Grenoble. Lecture Notes in Business
   Information Processing (Springer), Vol 386 (August). pp.:64-76
+abstract: abstract
 draft: false
 featured: false
 image:
