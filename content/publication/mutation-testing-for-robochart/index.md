@@ -1,7 +1,7 @@
 ---
 title: Mutation Testing for RoboChart
 publication_types:
-  - "1"
+  - "5"
 authors:
   - Robert M. Hierons
   - Maciej Gazda
