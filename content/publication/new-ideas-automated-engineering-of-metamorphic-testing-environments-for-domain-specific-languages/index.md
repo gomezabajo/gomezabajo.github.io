@@ -14,8 +14,19 @@ publication: ACM SIGPLAN International Conference on Software Language
   Engineering (SLE 2021), Chicago. Best new ideas/vision paper award at SLE'21
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://dl.acm.org/doi/10.1145/3486608.3486904'
+url_code: 'https://g0tten.github.io/gotten/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 projects:
-  - Wodel
+  - Gotten
 image:
   filename: ""
   focal_point: Smart

@@ -11,6 +11,17 @@ authors:
 publication: Software Engineering for Robotics (Springer). pp.:345–375
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://link.springer.com/chapter/10.1007%2F978-3-030-66494-7_11'
+url_code: 'https://gomezabajo.github.io/Wodel/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 projects:
   - Wodel
 image:

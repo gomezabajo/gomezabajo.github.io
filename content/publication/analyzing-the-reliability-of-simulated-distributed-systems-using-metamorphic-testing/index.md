@@ -12,8 +12,19 @@ authors:
 publication: International workshop on Metamorphic Testing (MET at ICSE 2022), Pittsburgh
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://ieeexplore.ieee.org/document/9826123'
+url_code: 'https://g0tten.github.io/gotten/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 projects:
-  - Wodel
+  - Gotten
 image:
   filename: ""
   focal_point: Smart

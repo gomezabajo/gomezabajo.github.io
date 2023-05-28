@@ -15,6 +15,17 @@ publication: ACM/IEEE 25th International Conference on Model Driven Engineering
   Languages and Systems (MoDELS 2022), Montreal
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://dl.acm.org/doi/10.1145/3550355.3552451'
+url_code: 'https://gomezabajo.github.io/Wodel/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 projects:
   - Wodel
 image:
