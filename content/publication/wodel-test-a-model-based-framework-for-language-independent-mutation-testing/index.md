@@ -7,7 +7,7 @@ authors:
   - Esther Guerra
   - Juan de Lara
   - Mercedes G. Merayo
-publication: Software and Systems Modeling (Springer), Vol 20 (June). pp.:767–793
+publication: In *Software and Systems Modeling (Springer)*, Vol 20 (June). pp.:767–793
 draft: false
 featured: false
 # links:

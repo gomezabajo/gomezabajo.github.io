@@ -9,7 +9,7 @@ authors:
   - Pablo Gómez-Abajo
   - Esther Guerra
   - Juan de Lara
-publication: International workshop on Metamorphic Testing (MET at ICSE 2022), Pittsburgh
+publication: In *International workshop on Metamorphic Testing (MET at ICSE 2022)*, Pittsburgh
 draft: false
 featured: false
 # links:
@@ -29,5 +29,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-05-28T18:15:49.802Z
+date: 2022-05-31T18:15:49.802Z
 ---

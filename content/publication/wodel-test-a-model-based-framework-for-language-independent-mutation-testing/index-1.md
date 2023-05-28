@@ -7,8 +7,8 @@ authors:
   - Esther Guerra
   - Juan de Lara
   - Mercedes G. Merayo
-publication: Jornadas de Ingeniería del Software y Bases de Datos 2021 (JISBD
-  2021), Málaga. Journal 1st
+publication: In *Jornadas de Ingeniería del Software y Bases de Datos 2021 (JISBD
+  2021)*, Málaga. Journal 1st
 draft: false
 featured: false
 # links:

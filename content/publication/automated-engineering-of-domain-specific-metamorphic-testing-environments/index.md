@@ -8,7 +8,7 @@ authors:
   - Alberto Núñez
   - Esther Guerra
   - Juan de Lara
-publication: Information and Software Technology (Elsevier)
+publication: In *Information and Software Technology (Elsevier)*
 draft: false
 featured: false
 # links:

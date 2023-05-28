@@ -10,8 +10,8 @@ authors:
   - Esther Guerra
   - Juan de Lara
 doi: ""
-publication: ACM SIGPLAN International Conference on Software Language
-  Engineering (SLE 2021), Chicago. Best new ideas/vision paper award at SLE'21
+publication: In *ACM SIGPLAN International Conference on Software Language
+  Engineering (SLE 2021)*, Chicago. Best new ideas/vision paper award at SLE'21
 draft: false
 featured: false
 # links:
@@ -31,5 +31,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-05-28T18:14:50.741Z
+date: 2021-11-30T18:14:50.741Z
 ---

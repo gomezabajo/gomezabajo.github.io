@@ -11,8 +11,8 @@ authors:
   - Pablo C. Cañizares
   - Esther Guerra
   - Juan de Lara
-publication: ACM/IEEE 25th International Conference on Model Driven Engineering
-  Languages and Systems (MoDELS 2022), Montreal
+publication: In *ACM/IEEE 25th International Conference on Model Driven Engineering
+  Languages and Systems (MoDELS 2022)*, Montreal
 draft: false
 featured: false
 # links:
@@ -32,5 +32,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-05-28T18:16:45.088Z
+date: 2022-10-31T18:16:45.088Z
 ---
