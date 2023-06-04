@@ -1,11 +1,11 @@
 ---
-slides: example
-url_pdf: ""
+#slides: example
+#url_pdf: ""
 summary: A domain-specific language for model mutation
-url_video: ""
+#url_video: ""
 date: 2016-04-27T00:00:00.000Z
-external_link: ""
-url_slides: ""
+#external_link: ""
+#url_slides: ""
 title: Wodel
 tags:
   - Wodel
@@ -15,10 +15,10 @@ links:
     name: Check
     url: https://gomezabajo.github.io/Wodel/
 image:
-  caption: Photo by gomezabajo on Wodel
+  caption: Wodel development environment
   focal_point: Smart
   filename: featured.jpg
-url_code: ""
+#url_code: ""
 ---
 **Wodel** is a Domain-Specific Language for the specification and generation of model mutants.
 
