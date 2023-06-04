@@ -2,8 +2,8 @@
 title: Pablo Gómez-Abajo
 role: Assistant Professor
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include software engineering, model-driven engineering and
+  natural language processing.
 interests:
   - Software Engineerig
   - Model-Driven Engineering
@@ -50,10 +50,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Gómez-Abajo
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Pablo
+email: "pablo.gomeza@uam.es"
 ---
 Pablo Gómez-Abajo earned his Bachelor's in Computer Science and Engineering at the [Universidad Autónoma de Madrid](https://www.uam.es/) in 2006 with an average score of 7.4 out of 10.\
 \
