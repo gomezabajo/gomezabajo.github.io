@@ -7,7 +7,7 @@ authors:
   - Pablo Gómez-Abajo
   - Esther Guerra
   - Juan de Lara
-publication: *Science of Computer Programming (Elsevier)*
+publication: In *Science of Computer Programming (Elsevier)*
 draft: false
 featured: false
 # links:
