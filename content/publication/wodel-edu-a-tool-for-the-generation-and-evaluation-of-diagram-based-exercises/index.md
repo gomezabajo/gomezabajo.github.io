@@ -14,13 +14,13 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0167642323000825'
-url_code: 'https://gomezabajo.github.io/Wodel/'
+url_code: 'https://gomezabajo.github.io/Wodel/wodel-edu.html'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://gomezabajo.github.io/Wodel/wodel-edu.html'
+url_video: 'https://gomezabajo.github.io/Wodel/wodel-edu-video.html'
 projects:
   - Wodel
 image:
