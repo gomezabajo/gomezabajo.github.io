@@ -6,6 +6,7 @@ authors:
   - Pablo Gómez-Abajo
   - Esther Guerra
   - Juan de Lara
+publication: In *Computer Applications in Engineering Education (Wiley)*
 abstract: One of the most time-consuming task for teachers is creating and
   correcting exercises to evaluate students. This is normally performed by hand,
   which incurs high time costs and is error-prone. A way to alleviate this
@@ -21,9 +22,22 @@ abstract: One of the most time-consuming task for teachers is creating and
   and efficiency, illustrating the benefits of our approach.
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22676'
+url_code: 'https://gomezabajo.github.io/Wodel/wodel-edu.html'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: 'https://gomezabajo.github.io/Wodel/wodel-edu-video.html'
+projects:
+  - Wodel
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-27T04:36:31.854Z
+date: 2023-08-24T04:36:31.854Z
 ---

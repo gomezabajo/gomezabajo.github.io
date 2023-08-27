@@ -9,11 +9,25 @@ authors:
   - Alberto Núñez
   - Esther Guerra
   - Juan de Lara
+publication: In *ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MoDELS 2023)*, Västerås
 draft: false
 featured: false
+# links:
+# - name: ""
+#   url: ""
+url_pdf: '#'
+url_code: 'https://g0tten.github.io/gotten/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+projects:
+  - Gotten
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-27T04:38:08.582Z
+date: 2023-08-18T18:17:50.519Z
 ---
