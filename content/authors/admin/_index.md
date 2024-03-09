@@ -57,7 +57,7 @@ email: pablo.gomeza@uam.es
 ---
 Pablo Gómez-Abajo earned his Bachelor's in Computer Science and Engineering at the [Universidad Autónoma de Madrid](https://www.uam.es/) in 2006 with an average score of 7.4 out of 10.\
 \
-From 2008 to 2015, Pablo Gómez-Abajo was working as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net/) During this time, he acquired high-level skills in developing solutions for professionals from other technological areas, such as civil engineers, mechanical engineers, and so on. This allows him a remarkable ability to understand their needs and build the easiest solution for them.\
+From 2008 to 2015, Pablo Gómez-Abajo was working as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net/). During this time, he acquired high-level skills in developing solutions for professionals from other technological areas, such as civil engineers, mechanical engineers, and so on. This allows him a remarkable ability to understand their needs and build the easiest solution for them.\
 \
 In 2015, he joined the [Modelling and Software Engineering research group](https://www.miso.es/) led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) within the Computer Science Department of the Universidad Autónoma de Madrid to keep improving his skills as an ICT professional. His research mainly involves designing and developing domain-specific languages and generic tools for domain experts.\
 \
