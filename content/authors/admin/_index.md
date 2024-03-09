@@ -1,7 +1,7 @@
 ---
 title: Pablo Gómez-Abajo
 role: Assistant Professor
-avatar_filename: avatar.png
+avatar_filename: gomezabajo_2022_eps.png
 bio: My research interests include software engineering, model-driven
   engineering and natural language processing.
 interests:
@@ -71,6 +71,4 @@ He has directed five final projects of the degree: ''Un entorno para generación
 \
 Pablo Gómez-Abajo speaks fluently Spanish, English, and Portuguese and can interact in French, German, Italian, and Arabic.
 
-![](download_32x32.png)
-
-Download my [resumé](https://gomezabajo.github.io/uploads/resume.pdf)
+![download](download.svg) Download my [resumé] (https://gomezabajo.github.io/uploads/resume.pdf).
