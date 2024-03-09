@@ -69,6 +69,4 @@ Since September 2019, Pablo Gómez-Abajo has been holding the position of Assist
 
 He has directed five final projects of the degree: ''Un entorno para generación de juegos colaborativos mediante técnicas de modelado'' (2021), ''Generación automática de ejercicios para aplicaciones móviles'' (2021), "Un entorno para generación de gestores documentales" (2022), "Generación y evaluación de ejercicios basados en diagramas para Apple iOS" (2022), and "Sistema de soporte a las decisiones en el ámbito de la bioética clínica" (2023), all with a "notable" as their final mark.\
 \
-Pablo Gómez-Abajo speaks fluently Spanish, English, and Portuguese and can interact in French, German, Italian, and Arabic.
-
-![download](download.svg) Download my [resumé] (https://gomezabajo.github.io/uploads/resume.pdf).
+Pablo Gómez-Abajo speaks Spanish, English, and Portuguese fluently and can interact in French, German, Italian, and Arabic.
