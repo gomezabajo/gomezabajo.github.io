@@ -40,13 +40,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Universidad Autónoma de Madrid
-      year: 2020
+      year: '2016 - 2020'
     - course: MSc in Computer Science
       institution: Universidad Autónoma de Madrid
-      year: 2016
+      year: '2014 - 2016'
     - course: BSc in Computer Science
       institution: Universidad Autónoma de Madrid
-      year: 2006
+      year: '2000 - 2006'
 superuser: true
 status:
   icon: ☕️
@@ -70,5 +70,5 @@ Since September 2019, Pablo Gómez-Abajo has been holding the position of Assist
 He has directed five final projects of the degree: ''Un entorno para generación de juegos colaborativos mediante técnicas de modelado'' (2021), ''Generación automática de ejercicios para aplicaciones móviles'' (2021), "Un entorno para generación de gestores documentales" (2022), "Generación y evaluación de ejercicios basados en diagramas para Apple iOS" (2022), and "Sistema de soporte a las decisiones en el ámbito de la bioética clínica" (2023), all with a "notable" as their final mark.\
 \
 Pablo Gómez-Abajo speaks Spanish, English, and Portuguese fluently and can interact in French, German, Italian, and Arabic.
-\
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
