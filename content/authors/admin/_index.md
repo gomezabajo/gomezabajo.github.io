@@ -54,6 +54,7 @@ last_name: Gómez-Abajo
 highlight_name: true
 first_name: Pablo
 email: pablo.gomeza@uam.es
+highlight_name: true
 ---
 Pablo Gómez-Abajo earned his Bachelor's in Computer Science and Engineering at the [Universidad Autónoma de Madrid](https://www.uam.es/) in 2006 with an average score of 7.4 out of 10.\
 \
