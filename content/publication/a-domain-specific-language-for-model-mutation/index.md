@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Pablo Gómez-Abajo
 publication: Thesis document. Doctor of Philosophy (PhD) in Computer Science and
-  Engineering, 2020. Modelling and Software Engineering Research Group. Universidad Autónoma de Madrid
+  Engineering, 2020. Universidad Autónoma de Madrid
 draft: false
 featured: false
 # links:
