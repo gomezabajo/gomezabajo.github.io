@@ -1,0 +1,31 @@
+# Theme metadata
+# Custom color theme for gomezabajo.github.io
+# A calm academic palette built around the UAM institutional green,
+# harmonised with the visual identity of gomezabajo.es.
+name = "Gómez-Abajo"
+
+[light]
+  # Primary
+  primary = "#00795b"
+
+  # Menu
+  menu_primary = "#ffffff"
+  menu_text = "#3d4451"
+  menu_text_active = "#00795b"
+  menu_title = "#1f2937"
+
+  # Links
+  link = "#00795b"
+  link_hover = "#00563f"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(246, 249, 247)"
+
+[dark]
+  # Primary
+  primary = "#7fd8bd"
+
+  # Links
+  link = "#8fdfc8"
+  link_hover = "#b3efdd"

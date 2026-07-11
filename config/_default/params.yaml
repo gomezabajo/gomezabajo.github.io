@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: modern
+  theme_day: gomezabajo
+  theme_night: gomezabajo
+  font: gomezabajo
   font_size: L
 
 # SEO
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: ''
-    twitter: ''
+    org_name: 'Universidad Autónoma de Madrid'
+    description: 'Pablo Gómez-Abajo, Associate Professor at the Universidad Autónoma de Madrid. Research on model-driven engineering, domain-specific languages, and software testing (Wodel, Wodel-Test, Gotten).'
+    twitter: 'GomezAbajo_en'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

@@ -1,0 +1,14 @@
+# Font style metadata
+# Custom font set for gomezabajo.github.io
+# Source Serif 4 for headings and Source Sans 3 for body text,
+# matching the typography of gomezabajo.es for a coherent identity.
+name = "Gómez-Abajo"
+
+# Optional Google font URL
+google_fonts = "family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Code+Pro:wght@400;600"
+
+# Font families
+heading_font = "Source Serif 4"
+body_font = "Source Sans 3"
+nav_font = "Source Sans 3"
+mono_font = "Source Code Pro"

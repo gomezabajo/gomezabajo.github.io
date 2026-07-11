@@ -1,11 +1,11 @@
 ---
 title: Pablo Gómez-Abajo
-role: Assistant Professor | PhD
+role: Associate Professor | PhD
 avatar_filename: gomezabajo_2022_eps.png
 bio: My research interests include software engineering, model-driven
   engineering and natural language processing.
 interests:
-  - Software Engineerig
+  - Software Engineering
   - Model-Driven Engineering
   - Human-Computer Interaction
   - Natural Language Processing
@@ -63,9 +63,9 @@ In 2015, he joined the [Modelling and Software Engineering research group](http
 \
 In 2016, he defended his final master's thesis, ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054) directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), with a special mention as its final mark.\
 \
-In 2020, he defended his Ph.D. in Computer Science and Engineering with the title ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951 "A domain-specific language for model mutation"), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), as excellent cum laude. He has been the author of 7 journal publications, co-author of 1 book chapter, and has published at 11 international conferences.
+In 2020, he defended his Ph.D. in Computer Science and Engineering with the title ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951 "A domain-specific language for model mutation"), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), as excellent cum laude. He has authored 8 journal publications, co-authored a book chapter, and has presented his work at numerous international conferences and workshops.
 
-Since September 2019, Pablo Gómez-Abajo has been holding the position of Assistant Professor in the Computer Science Department of the Universidad Autónoma de Madrid. During this time, he has taught courses on "Compilers" (120h, from which 30h correspond to a group taught in the English language), "Automata and languages theory" (30h), "Software analysis and design" (60h), and "Operating Systems" (45h) from the Bachelor's in Computer Science, and "Advanced Networks and the Internet" (12h) from the Master's in Computer Science.
+Pablo Gómez-Abajo has been teaching in the Computer Science Department of the Universidad Autónoma de Madrid since September 2019, first as Assistant Professor and currently as Associate Professor (Profesor Permanente Laboral). During this time, he has taught courses on "Compilers" (120h, from which 30h correspond to a group taught in the English language), "Automata and languages theory" (30h), "Software analysis and design" (60h), and "Operating Systems" (45h) from the Bachelor's in Computer Science, and "Advanced Networks and the Internet" (12h) from the Master's in Computer Science.
 
 He has directed five final projects of the degree: ''Un entorno para generación de juegos colaborativos mediante técnicas de modelado'' (2021), ''Generación automática de ejercicios para aplicaciones móviles'' (2021), "Un entorno para generación de gestores documentales" (2022), "Generación y evaluación de ejercicios basados en diagramas para Apple iOS" (2022), and "Sistema de soporte a las decisiones en el ámbito de la bioética clínica" (2023), all with a "notable" as their final mark.\
 \

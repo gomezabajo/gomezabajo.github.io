@@ -15,18 +15,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: Java
-          description: 90%
+        - name: Model-Driven Engineering
+          description: Metamodelling, domain-specific languages and code generation with EMF
+          icon: diagram-project
+          icon_pack: fas
+        - name: Java & Eclipse
+          description: Eclipse plug-in development and DSLs built with Xtext
           icon: java
           icon_pack: fab
-        - name: Eclipse
-          description: 100%
-          icon: gear
+        - name: Software Testing
+          description: Mutation testing and metamorphic testing (Wodel-Test, Gotten)
+          icon: vial
           icon_pack: fas
-        - name: Software Engineering
-          description: 80%
-          icon: uncharted
-          icon_pack: fab
   - block: experience
     id: experience
     content:
@@ -182,7 +182,8 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: pablo.gomeza@uam.es
       phone: +34 91 497 2358
-      appointment_url: 'https://calendly.com'
+      # To re-enable appointment booking, set your personal Calendly URL below:
+      # appointment_url: 'https://calendly.com/your-username'
       address:
         street: C/ Francisco Tomás y Valiente, 11
         city: Madrid
@@ -196,14 +197,12 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/GomezAbajo_en'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:pgomez.imasp?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        # Skype was discontinued in May 2025, and the Zoom link below was a
+        # generic placeholder. Restore with a personal meeting URL if desired:
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.us/my/your-meeting-room'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

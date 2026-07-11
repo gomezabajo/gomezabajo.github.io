@@ -1,0 +1,138 @@
+/*
+  Custom styles for gomezabajo.github.io
+  ---------------------------------------------------------------
+  Loaded automatically by Wowchemy via `@import "custom"`.
+  Visual polish only: no layout structure or JavaScript behaviour
+  is modified, so all interactions (navigation, day/night toggle,
+  search, project filters, contact form) work exactly as before.
+*/
+
+$pg-green: #00795b;
+$pg-green-deep: #00563f;
+$pg-mint: #7fd8bd;
+
+/* ---------- Typography refinements ---------- */
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.01em;
+}
+
+/* Section titles: subtle centred accent rule */
+.section-heading h1 {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 0.45rem;
+}
+
+.section-heading h1::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 2.75rem;
+  height: 3px;
+  border-radius: 2px;
+  background: $pg-green;
+}
+
+.dark .section-heading h1::after {
+  background: $pg-mint;
+}
+
+/* ---------- Hero / profile ---------- */
+
+.avatar {
+  box-shadow: 0 0 0 4px rgba(0, 121, 91, 0.14), 0 10px 28px rgba(0, 0, 0, 0.12);
+}
+
+.dark .avatar {
+  box-shadow: 0 0 0 4px rgba(127, 216, 189, 0.22), 0 10px 28px rgba(0, 0, 0, 0.45);
+}
+
+.portrait-title h3 {
+  letter-spacing: 0;
+}
+
+/* ---------- Navbar ---------- */
+
+.navbar {
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05), 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+.dark .navbar {
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.04), 0 2px 12px rgba(0, 0, 0, 0.35);
+}
+
+/* ---------- Cards (projects, accomplishments) ---------- */
+
+.card {
+  border-radius: 0.9rem;
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.14);
+}
+
+.dark .card:hover {
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.55);
+}
+
+/* ---------- Publications list ---------- */
+
+.pub-list-item {
+  border-left: 3px solid transparent;
+  border-radius: 0.25rem;
+  padding-left: 0.75rem;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.pub-list-item:hover {
+  border-left-color: $pg-green;
+  background-color: rgba(0, 121, 91, 0.045);
+}
+
+.dark .pub-list-item:hover {
+  border-left-color: $pg-mint;
+  background-color: rgba(127, 216, 189, 0.07);
+}
+
+/* ---------- Skills / features icons ---------- */
+
+.featurette-icon {
+  color: $pg-green;
+}
+
+.dark .featurette-icon {
+  color: $pg-mint;
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  border-radius: 0.5rem;
+}
+
+.btn-primary,
+.btn-outline-primary {
+  transition: transform 0.2s ease, box-shadow 0.2s ease,
+    background-color 0.2s ease, color 0.2s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 121, 91, 0.35);
+}
+
+/* ---------- Small touches ---------- */
+
+::selection {
+  background: rgba(0, 121, 91, 0.18);
+}
+
+.dark ::selection {
+  background: rgba(127, 216, 189, 0.25);
+}
