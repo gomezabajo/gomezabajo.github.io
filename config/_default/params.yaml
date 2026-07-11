@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Universidad Autónoma de Madrid'
-    description: 'Pablo Gómez-Abajo, Associate Professor at the Universidad Autónoma de Madrid. Research on model-driven engineering, domain-specific languages, and software testing (Wodel, Wodel-Test, Gotten).'
+    description: 'Pablo Gómez-Abajo is an Associate Professor at Universidad Autónoma de Madrid. His research focuses on model-driven engineering, domain-specific languages, and software testing (Wodel, Wodel-Test, and Gotten).'
     twitter: 'GomezAbajo_en'
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Pablo Gómez-Abajo. This work is licensed under {license}'
+    notice: '© {year} Pablo Gómez-Abajo. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: false

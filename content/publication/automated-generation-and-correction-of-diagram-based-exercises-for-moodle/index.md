@@ -7,19 +7,18 @@ authors:
   - Esther Guerra
   - Juan de Lara
 publication: In *Computer Applications in Engineering Education (Wiley)*
-abstract: One of the most time-consuming task for teachers is creating and
-  correcting exercises to evaluate students. This is normally performed by hand,
-  which incurs high time costs and is error-prone. A way to alleviate this
-  problem is to provide an assistant tool that automates such tasks. In the case
-  of exercises based on diagrams, they can be represented as models to enable
-  their automated model-based generation for any target environment, like web or
-  mobile applications, or learning platforms like Moodle. In this paper, we
-  propose an automated process for synthesizing five types of diagram-based
-  exercises for the Moodle platform. Being model-based, our solution is
-  domain-agnostic (i.e., it can be applied to arbitrary domains like automata,
-  electronics, or software design). We report on its use within a university
-  course on automata theory, as well as evaluations of generality, effectiveness
-  and efficiency, illustrating the benefits of our approach.
+abstract: Creating and grading exercises is one of the most time-consuming
+  tasks for instructors. These activities are usually performed manually, which
+  requires substantial time and may introduce errors. An assistant tool that
+  automates them can reduce this burden. Diagram-based exercises can be represented
+  as models, enabling their automatic generation for target environments such as
+  web and mobile applications or learning platforms such as Moodle. This paper
+  presents an automated process for synthesizing five types of diagram-based
+  exercises for Moodle. Because the process is model-based, the solution is
+  domain-independent and can be applied to domains such as automata, electronics,
+  and software design. We report its use in a university course on automata theory
+  and evaluate its generality, effectiveness, and efficiency. The results
+  illustrate the benefits of the approach.
 draft: false
 featured: false
 # links:

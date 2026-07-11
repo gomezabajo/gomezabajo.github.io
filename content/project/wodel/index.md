@@ -12,7 +12,7 @@ tags:
 links:
   - icon: check
     icon_pack: fas
-    name: Check
+    name: Visit Project
     url: https://gomezabajo.github.io/Wodel/
 image:
   caption: Wodel development environment
@@ -20,10 +20,10 @@ image:
   filename: featured.jpg
 #url_code: ""
 ---
-**Wodel** is a Domain-Specific Language for the specification and generation of model mutants.
+**Wodel** is a domain-specific language for specifying and generating model mutants.
 
-Wodel is **domain-independent**, as it can be used to generate mutants of models conforming to arbitrary meta-models.
+Wodel is **domain-independent** because it can generate mutants of models that conform to arbitrary metamodels.
 
-Wodel provides **nine mutation primitives** for object creation and deletion, reference redirection, attribute modification, cloning, and retyping (change the type of an object to one of its siblings types), among others.
+Wodel provides **nine mutation primitives** for creating and deleting objects, redirecting references, modifying attributes, cloning elements, and retyping objects (changing an object's type to one of its sibling types), among other operations.
 
-The engine **verifies that each generated mutant is a valid model** (i.e., it conforms to the domain meta-model and satisfies its integrity constraints).
+The engine **verifies that each generated mutant is a valid model** (i.e., that it conforms to the domain metamodel and satisfies its integrity constraints).

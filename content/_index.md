@@ -16,11 +16,11 @@ sections:
       title: Skills
       items:
         - name: Model-Driven Engineering
-          description: Metamodelling, domain-specific languages and code generation with EMF
+          description: Metamodeling, domain-specific languages, and code generation with EMF
           icon: diagram-project
           icon_pack: fas
         - name: Java & Eclipse
-          description: Eclipse plug-in development and DSLs built with Xtext
+          description: Eclipse plug-in development and domain-specific languages built with Xtext
           icon: java
           icon_pack: fab
         - name: Software Testing
@@ -49,9 +49,9 @@ sections:
           date_end: ''
           description: |2-
               Taught courses:
-              * Operating systems
-              * Internet and advanced networks
-        - title: Pre-doctoral Assistant Professor
+              * Operating Systems
+              * Internet and Advanced Networks
+        - title: Predoctoral Assistant Professor
           company: Universidad Autónoma de Madrid
           company_url: 'https://www.uam.es'
           company_logo: org-uam
@@ -61,8 +61,8 @@ sections:
           description: |2-
               Taught courses:
               * Compilers
-              * Automata and languages theory
-              * Software analysis and design
+              * Automata and Language Theory
+              * Software Analysis and Design
         - title: Research Project Associate
           company: Universidad Autónoma de Madrid
           company_url: 'https://www.uam.es'
@@ -71,7 +71,7 @@ sections:
           date_start: '2015-03-01'
           date_end: '2019-09-01'
           description: |2-
-              Design and development of:
+              Designed and developed:
               * Domain-specific languages
               * Domain-independent solutions
         - title: IT Manager
@@ -82,12 +82,12 @@ sections:
           date_start: '2008-07-21'
           date_end: '2015-03-01'
           description: |2-
-              Responsibilities include:
-              * Requirements Engineering
-              * Analysis and Design
-              * Development
-              * Deploying
-              * IT Support
+              Responsibilities included:
+              * Requirements engineering
+              * Analysis and design
+              * Software development
+              * Deployment
+              * IT support
     design:
       columns: '2'
   - block: accomplishments
@@ -115,7 +115,7 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: Developed well-informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
@@ -178,7 +178,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can use the below data to contact Pablo Gómez-Abajo whenever you like.
+        You may use the contact information below to reach Pablo Gómez-Abajo.
       # Contact (add or remove contact options as necessary)
       email: pablo.gomeza@uam.es
       phone: +34 91 497 2358
@@ -195,7 +195,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Message Me
           link: 'https://twitter.com/GomezAbajo_en'
         # Skype was discontinued in May 2025, and the Zoom link below was a
         # generic placeholder. Restore with a personal meeting URL if desired:
