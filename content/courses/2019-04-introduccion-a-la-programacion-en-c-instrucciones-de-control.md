@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2019_Introduccion_a_la_programacion_en_C_Instrucciones_de_control_y_ficheros_de_texto.pdf'
 description: '16h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

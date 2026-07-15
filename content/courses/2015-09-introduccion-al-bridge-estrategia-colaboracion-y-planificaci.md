@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2015_Bridge_introduccion.pdf'
 description: '30h.'
 date_end: '2015-12-01'
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

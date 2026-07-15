@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2018_III_Jornada_Universidad_Inclusiva_PUB.pdf'
 description: '6h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

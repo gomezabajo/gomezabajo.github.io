@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2016_Aprendizaje_automatico_datos_funcionales.pdf'
 description: '8h. · Programa de posgrado de la EPS de la UAM'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

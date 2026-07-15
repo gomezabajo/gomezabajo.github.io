@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2026_Debate.pdf'
 description: '25h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

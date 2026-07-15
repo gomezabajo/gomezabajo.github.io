@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2004_13_Festival_de_musica_electroacustica.pdf'
 description: '30h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

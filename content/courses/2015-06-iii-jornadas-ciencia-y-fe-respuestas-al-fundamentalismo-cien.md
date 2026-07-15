@@ -6,8 +6,9 @@ title: 'III Jornadas ''Ciencia y Fe'': ''Respuestas al fundamentalismo cientifis
 date: '2015-06-01'
 weight: 265
 organization: 'Fundación Cultural Ángel Herrera Oria'
-organization_url: ''
+organization_url: 'https://herreraoria.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2015_III_Jornadas_ciencia_y_fe.pdf'
 description: ''
 date_end: ''
+icon: 'org-herrera-oria'
 ---

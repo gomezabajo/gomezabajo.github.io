@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Educacion_humanista.pdf'
 description: '1h. · IAP Talks'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

@@ -10,4 +10,5 @@ organization_url: 'https://www.urjc.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2017_Curso_ELE_ensennanza_espanol_como_lengua_extranjera_PUB.pdf'
 description: '50h.'
 date_end: '2017-12-01'
+icon: 'org-urjc'
 ---

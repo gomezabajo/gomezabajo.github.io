@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2004_El_sonido_posible.pdf'
 description: '15h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

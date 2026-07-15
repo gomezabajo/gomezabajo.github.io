@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Infancia_y_Ciudadania.pdf'
 description: '1h. · Fundación de la Universidad Autónoma de Madrid - CAITEC'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

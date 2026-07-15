@@ -10,4 +10,5 @@ organization_url: 'https://www.urjc.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2014_Prevencion_riesgos_PUB.pdf'
 description: '80h.'
 date_end: ''
+icon: 'org-urjc'
 ---

@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Imagenes_historicas.pdf'
 description: '75h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

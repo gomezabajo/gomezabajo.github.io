@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_Vida_saludable.pdf'
 description: '20h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

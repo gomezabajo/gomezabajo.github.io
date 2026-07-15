@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Claves_imagenes.pdf'
 description: '25h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

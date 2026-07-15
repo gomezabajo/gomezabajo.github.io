@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2025_IA_Humanidades.pdf'
 description: '15h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

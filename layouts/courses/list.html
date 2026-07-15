@@ -28,11 +28,12 @@
       <div class="card-body">
         {{- $icon := .Params.icon | default (replace (lower .Params.organization) " " "_") }}
         {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" $icon) -}}
+        {{- if not $svg_icon }}{{ $svg_icon = resources.Get (printf "media/icons/brands/%s.png" $icon) }}{{ end -}}
         {{- if $svg_icon }}
         <div class="d-flex align-content-start">
           <div class="mr-2 mb-2">
             {{- with .Params.organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-            <img src="{{ $svg_icon.RelPermalink }}" width="56" height="56" alt="{{.Params.organization | plainify}}" loading="lazy">
+            <img src="{{ $svg_icon.RelPermalink }}" style="max-height: 56px; max-width: 150px; width: auto; height: auto;" alt="{{.Params.organization | plainify}}" loading="lazy">
             {{- with .Params.organization_url}}</a>{{end -}}
           </div>
           <div>
@@ -87,6 +88,7 @@
   {{ range .Pages }}
     {{- $icon := .Params.icon | default (replace (lower .Params.organization) " " "_") }}
     {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" $icon) -}}
+    {{- if not $svg_icon }}{{ $svg_icon = resources.Get (printf "media/icons/brands/%s.png" $icon) }}{{ end -}}
     {{- $dates := .Date | time.Format $date_format -}}
     {{- with .Params.date_end }}{{ $dates = printf "%s – %s" $dates ((time .) | time.Format $date_format) }}{{ end -}}
     {{- $iconUrl := "" -}}
@@ -134,7 +136,7 @@
         ? '<a href="' + esc(c.orgUrl) + '" target="_blank" rel="noopener">' + esc(c.org) + '</a>'
         : esc(c.org);
       var iconHtml = c.iconUrl
-        ? '<div class="mr-2 mb-2"><img src="' + esc(c.iconUrl) + '" width="56" height="56" alt="' + esc(c.org) + '" loading="lazy"></div>'
+        ? '<div class="mr-2 mb-2"><img src="' + esc(c.iconUrl) + '" style="max-height:56px;max-width:150px;width:auto;height:auto;" alt="' + esc(c.org) + '" loading="lazy"></div>'
         : '';
       var inner =
         '<div class="section-subheading card-title exp-title text-muted my-0">' + esc(c.title) + '</div>' +

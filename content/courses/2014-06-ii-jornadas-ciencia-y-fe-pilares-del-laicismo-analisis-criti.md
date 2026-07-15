@@ -6,8 +6,9 @@ title: 'II Jornadas ''Ciencia y Fe'': ''Pilares del Laicismo: Análisis Crítico
 date: '2014-06-01'
 weight: 276
 organization: 'Fundación Cultural Ángel Herrera Oria'
-organization_url: ''
+organization_url: 'https://herreraoria.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2014_II_Jornadas_ciencia_y_fe.pdf'
 description: ''
 date_end: ''
+icon: 'org-herrera-oria'
 ---

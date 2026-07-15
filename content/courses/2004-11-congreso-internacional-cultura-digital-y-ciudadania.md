@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2004_Congreso_Internacional_Cultura_Digital_y_Ciudadania.pdf'
 description: '36h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

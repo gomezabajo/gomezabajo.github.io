@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_Pedagogia_de_la_muerte.pdf'
 description: '15h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

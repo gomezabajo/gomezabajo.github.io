@@ -10,4 +10,5 @@ organization_url: 'https://www.urjc.es'
 certificate_url: 'https://certificados.miriadax.net/11751037'
 description: '15h. · Miríada X'
 date_end: ''
+icon: 'org-urjc'
 ---

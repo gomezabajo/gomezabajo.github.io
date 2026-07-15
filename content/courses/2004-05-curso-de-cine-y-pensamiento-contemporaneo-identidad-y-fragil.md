@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf'
 description: '20h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

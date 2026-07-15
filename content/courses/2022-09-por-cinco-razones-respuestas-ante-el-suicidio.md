@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Por_cinco_razones.pdf'
 description: '20h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

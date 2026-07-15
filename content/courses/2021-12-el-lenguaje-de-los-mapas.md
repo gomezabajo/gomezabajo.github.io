@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_El_lenguaje_de_los_mapas.pdf'
 description: '25h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

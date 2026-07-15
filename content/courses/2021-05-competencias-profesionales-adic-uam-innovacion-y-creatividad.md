@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_Innovacion_y_creatividad_IIC-UAM.pdf'
 description: '30h. · IIC-UAM'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

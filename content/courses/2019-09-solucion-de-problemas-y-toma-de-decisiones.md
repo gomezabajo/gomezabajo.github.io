@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2019_Solucion_problemas_toma_decisiones_PUB.pdf'
 description: '7h. · Escuela de Doctorado'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

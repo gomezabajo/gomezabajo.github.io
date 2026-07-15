@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Asertividad_PUB.pdf'
 description: '2h.'
 date_end: ''
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---

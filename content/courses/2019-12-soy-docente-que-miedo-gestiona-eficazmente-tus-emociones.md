@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2019_Gestiona_eficazmente_tus_emociones.pdf'
 description: '16h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uam-full'
 ---

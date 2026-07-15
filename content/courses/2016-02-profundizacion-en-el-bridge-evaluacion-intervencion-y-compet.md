@@ -10,5 +10,5 @@ organization_url: 'https://www.uam.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2016_Bridge_profundizacion.pdf'
 description: '30h.'
 date_end: '2016-05-01'
-icon: 'org-uam'
+icon: 'org-uam-full'
 ---
