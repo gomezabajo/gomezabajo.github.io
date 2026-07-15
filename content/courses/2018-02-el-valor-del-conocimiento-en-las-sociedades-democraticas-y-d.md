@@ -10,5 +10,5 @@ organization_url: 'https://www.uc3m.es'
 certificate_url: 'https://certificados.miriadax.net/zze1khhq'
 description: '16h. · Miríada X'
 date_end: ''
-icon: 'org-uc3m'
+icon: 'org-uc3m-full'
 ---
