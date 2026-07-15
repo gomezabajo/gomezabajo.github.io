@@ -10,5 +10,5 @@ organization_url: 'https://www.uc3m.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Historia_de_la_etica.pdf'
 description: '18h. · edX'
 date_end: ''
-icon: 'org-uc3m'
+icon: 'full-org-uc3m'
 ---
