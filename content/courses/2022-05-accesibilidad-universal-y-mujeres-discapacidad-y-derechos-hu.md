@@ -10,4 +10,5 @@ organization_url: 'https://www.uned.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Accesibilidad_universal_mujeres_UNED.pdf'
 description: '12h.'
 date_end: ''
+icon: 'org-uned'
 ---

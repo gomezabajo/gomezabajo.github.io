@@ -10,4 +10,5 @@ organization_url: 'https://www.ucam.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2015_Matlab_para_principiantes.pdf'
 description: '16h. · Miríada X'
 date_end: ''
+icon: 'org-ucam'
 ---

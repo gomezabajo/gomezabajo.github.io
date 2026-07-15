@@ -10,4 +10,5 @@ organization_url: 'https://www.uoc.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2018_Mineria_de_procesos_PUB.pdf'
 description: '8h.'
 date_end: ''
+icon: 'org-uoc'
 ---

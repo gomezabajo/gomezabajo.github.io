@@ -10,4 +10,5 @@ organization_url: 'https://www.uned.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2024_Tino_Casal_UNED_PUB.pdf'
 description: '20h.'
 date_end: ''
+icon: 'org-uned'
 ---

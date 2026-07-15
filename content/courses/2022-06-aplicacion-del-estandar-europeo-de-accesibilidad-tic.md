@@ -10,4 +10,5 @@ organization_url: 'https://www.uned.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Estandar_Europeo_Accesibilidad_TIC_UNED.pdf'
 description: '15h.'
 date_end: ''
+icon: 'org-uned'
 ---

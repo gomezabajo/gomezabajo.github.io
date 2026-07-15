@@ -10,4 +10,5 @@ organization_url: 'https://www.uned.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2026_Magia_Ecuaciones_UNED_PUB.pdf'
 description: '30h.'
 date_end: ''
+icon: 'org-uned'
 ---

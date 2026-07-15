@@ -10,4 +10,5 @@ organization_url: 'https://www.ull.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2015_E-Learning_Aulas_virtuales_en_Moodle_para_uso_docente.pdf'
 description: '24h. · Miríada X'
 date_end: ''
+icon: 'org-ull'
 ---
