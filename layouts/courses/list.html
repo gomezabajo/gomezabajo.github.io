@@ -10,7 +10,19 @@
   {{ $date_format := "Jan 2006" }}
   {{ $paginator := .Paginate .Pages 10 }}
 
-  <div class="col-12">
+  <!-- Search bar -->
+  <div class="row justify-content-center mb-3">
+    <div class="col-12 col-md-8">
+      <input type="search" id="courses-search" class="form-control" placeholder="Search courses by title, organization, or platform&hellip;" aria-label="Search courses" autocomplete="off">
+      <p id="courses-search-count" class="text-muted text-center mt-2 mb-0" style="display: none;"></p>
+    </div>
+  </div>
+
+  <!-- Top pagination -->
+  {{ partial "courses_pagination.html" . }}
+
+  <!-- Paginated cards -->
+  <div class="col-12" id="courses-cards">
   {{ range $paginator.Pages }}
     <div class="card experience course">
       <div class="card-body">
@@ -60,11 +72,121 @@
   {{end}}
   </div>
 
+  <!-- Search results (hidden until a query is typed) -->
+  <div class="col-12" id="courses-search-results" style="display: none;"></div>
+
   {{ if gt $paginator.TotalPages 1 }}
-  <p class="text-center text-muted mt-3">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</p>
+  <p class="text-center text-muted mt-3" id="courses-page-indicator">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</p>
   {{ end }}
 
-  {{ partial "pagination" . }}
+  <!-- Bottom pagination -->
+  {{ partial "courses_pagination.html" . }}
+
+  <!-- Full course index for client-side search -->
+  {{ $courses := slice }}
+  {{ range .Pages }}
+    {{- $icon := .Params.icon | default (replace (lower .Params.organization) " " "_") }}
+    {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" $icon) -}}
+    {{- $dates := .Date | time.Format $date_format -}}
+    {{- with .Params.date_end }}{{ $dates = printf "%s – %s" $dates ((time .) | time.Format $date_format) }}{{ end -}}
+    {{- $iconUrl := "" -}}
+    {{- if $svg_icon }}{{ $iconUrl = $svg_icon.RelPermalink }}{{ end -}}
+    {{ $courses = $courses | append (dict
+        "title" .Title
+        "org" .Params.organization
+        "orgUrl" (.Params.organization_url | default "")
+        "desc" (.Params.description | default "")
+        "dates" $dates
+        "cert" (.Params.certificate_url | default "")
+        "iconUrl" $iconUrl
+    ) }}
+  {{ end }}
+  <script type="application/json" id="courses-data">{{ $courses | jsonify | safeJS }}</script>
+
+  <script>
+  (function () {
+    'use strict';
+    var input = document.getElementById('courses-search');
+    var dataEl = document.getElementById('courses-data');
+    if (!input || !dataEl) { return; }
+    var courses = JSON.parse(dataEl.textContent);
+    var cards = document.getElementById('courses-cards');
+    var results = document.getElementById('courses-search-results');
+    var countEl = document.getElementById('courses-search-count');
+    var indicator = document.getElementById('courses-page-indicator');
+    var pagers = document.querySelectorAll('.courses-pagination');
+
+    function norm(s) {
+      return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    }
+    courses.forEach(function (c) {
+      c._hay = norm(c.title + ' ' + c.org + ' ' + c.desc + ' ' + c.dates);
+    });
+
+    function esc(s) {
+      return (s || '').toString()
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    function cardHtml(c) {
+      var orgHtml = c.orgUrl
+        ? '<a href="' + esc(c.orgUrl) + '" target="_blank" rel="noopener">' + esc(c.org) + '</a>'
+        : esc(c.org);
+      var iconHtml = c.iconUrl
+        ? '<div class="mr-2 mb-2"><img src="' + esc(c.iconUrl) + '" width="56" height="56" alt="' + esc(c.org) + '" loading="lazy"></div>'
+        : '';
+      var inner =
+        '<div class="section-subheading card-title exp-title text-muted my-0">' + esc(c.title) + '</div>' +
+        '<div class="card-subtitle my-0 article-metadata">' + orgHtml +
+        '<span class="middot-divider"></span>' + esc(c.dates) + '</div>';
+      var body = c.iconUrl
+        ? '<div class="d-flex align-content-start">' + iconHtml + '<div>' + inner + '</div></div>'
+        : inner;
+      if (c.desc) { body += '<div class="card-text">' + esc(c.desc) + '</div>'; }
+      if (c.cert) {
+        body += '<a class="card-link" href="' + esc(c.cert) + '" target="_blank" rel="noopener">See certificate</a>';
+      }
+      return '<div class="card experience course"><div class="card-body">' + body + '</div></div>';
+    }
+
+    function setVisible(el, visible) {
+      if (el) { el.style.display = visible ? '' : 'none'; }
+    }
+
+    function update() {
+      var q = norm(input.value.trim());
+      if (!q) {
+        setVisible(cards, true);
+        setVisible(results, false);
+        setVisible(countEl, false);
+        setVisible(indicator, true);
+        pagers.forEach(function (p) { setVisible(p, true); });
+        return;
+      }
+      var terms = q.split(/\s+/);
+      var matches = courses.filter(function (c) {
+        return terms.every(function (t) { return c._hay.indexOf(t) !== -1; });
+      });
+      results.innerHTML = matches.length
+        ? matches.map(cardHtml).join('')
+        : '<p class="text-center text-muted">No courses found.</p>';
+      countEl.textContent = matches.length + (matches.length === 1 ? ' course found' : ' courses found');
+      setVisible(cards, false);
+      setVisible(results, true);
+      setVisible(countEl, true);
+      setVisible(indicator, false);
+      pagers.forEach(function (p) { setVisible(p, false); });
+    }
+
+    var timer = null;
+    input.addEventListener('input', function () {
+      clearTimeout(timer);
+      timer = setTimeout(update, 120);
+    });
+    input.addEventListener('search', update);
+  })();
+  </script>
 </div>
 
 {{- end -}}
