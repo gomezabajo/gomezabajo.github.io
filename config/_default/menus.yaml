@@ -13,9 +13,12 @@ main:
   - name: Accomplishments
     url: '#accomplishments'
     weight: 30
+  - name: Courses
+    url: courses/
+    weight: 35
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 40
   - name: Publications
     url: '#publications'
     weight: 50
