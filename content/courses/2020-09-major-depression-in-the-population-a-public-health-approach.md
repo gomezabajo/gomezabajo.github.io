@@ -10,5 +10,5 @@ organization_url: 'https://www.jhu.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Depression.pdf'
 description: '12h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-jhu'
 ---

@@ -10,4 +10,5 @@ organization_url: 'https://www.uva.es'
 certificate_url: 'https://certificados.miriadax.net/c9f33730-cc79-4509-b542-daeeea626947#gs.p4eh45'
 description: '70h. · Miríada X'
 date_end: ''
+icon: 'org-uva'
 ---

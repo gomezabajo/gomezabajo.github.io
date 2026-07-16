@@ -10,5 +10,5 @@ organization_url: 'https://www.sydney.edu.au'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Positive_Psychiatry.pdf'
 description: '20h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-sydney'
 ---

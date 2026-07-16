@@ -10,5 +10,5 @@ organization_url: 'https://www.yale.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Christianity.pdf'
 description: '46h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-yale'
 ---
