@@ -10,4 +10,5 @@ organization_url: 'https://www.unige.ch'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2016_DSM-TP_Universite_de_Geneve.pdf'
 description: '50h.'
 date_end: ''
+icon: 'org-unige'
 ---

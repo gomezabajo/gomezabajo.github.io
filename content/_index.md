@@ -248,6 +248,7 @@ sections:
           date_end: ''
           date_start: '2016-08-01'
           description: '50h.'
+          icon: 'org-unige'
           organization: 'Université de Genève'
           organization_url: 'https://www.unige.ch'
           title: 'DSM-TP International Summer School 2016 on Domain-Specific Modeling'
