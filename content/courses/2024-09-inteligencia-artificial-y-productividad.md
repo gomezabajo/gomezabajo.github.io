@@ -10,4 +10,5 @@ organization_url: 'https://www.google.com'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2024_Google_IA_productividad.pdf'
 description: '8h. · Santander Academy'
 date_end: ''
+icon: 'org-google'
 ---

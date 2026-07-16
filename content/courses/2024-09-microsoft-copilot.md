@@ -10,4 +10,5 @@ organization_url: 'https://www.microsoft.com'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2024_Microsoft_Copilot.pdf'
 description: '8h. · Santander Academy'
 date_end: ''
+icon: 'org-microsoft'
 ---

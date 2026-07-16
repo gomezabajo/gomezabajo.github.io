@@ -10,5 +10,5 @@ organization_url: 'https://sdgacademy.org'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2024_Ethics_in_Action.pdf'
 description: '40h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-sdg-academy'
 ---

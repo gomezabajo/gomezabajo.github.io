@@ -10,4 +10,5 @@ organization_url: 'https://www.mit.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2023_Data_specimens_only_research.pdf'
 description: '75h. · CITI Program'
 date_end: ''
+icon: 'org-mit'
 ---

@@ -10,5 +10,5 @@ organization_url: 'https://www.ualberta.ca'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2024_Design_patterns.pdf'
 description: '40h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-ualberta'
 ---
