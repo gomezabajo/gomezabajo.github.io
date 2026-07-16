@@ -10,4 +10,5 @@ organization_url: 'https://www.ehu.eus'
 certificate_url: 'https://certificados.miriadax.net/12539562'
 description: '36h. · Miríada X'
 date_end: ''
+icon: 'org-ehu'
 ---

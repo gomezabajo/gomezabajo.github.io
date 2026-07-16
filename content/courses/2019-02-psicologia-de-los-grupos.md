@@ -10,4 +10,5 @@ organization_url: 'https://www.comillas.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2019_Psicologia_de_grupos.pdf'
 description: '15h.'
 date_end: ''
+icon: 'org-comillas'
 ---

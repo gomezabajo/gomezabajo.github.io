@@ -10,5 +10,5 @@ organization_url: 'https://www.wesleyan.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_The_Modern_and_the_Postmodern_Part_1.pdf'
 description: '11h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-wesleyan'
 ---

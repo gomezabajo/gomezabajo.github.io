@@ -10,5 +10,5 @@ organization_url: 'https://www.wesleyan.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Schizophrenia.pdf'
 description: '6h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-wesleyan'
 ---

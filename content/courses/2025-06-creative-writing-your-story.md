@@ -10,5 +10,5 @@ organization_url: 'https://www.wesleyan.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2025_Creative_Writing_Your_Story.pdf'
 description: '32h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-wesleyan'
 ---

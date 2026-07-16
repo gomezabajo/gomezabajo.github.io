@@ -10,5 +10,5 @@ organization_url: 'https://www.wesleyan.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Creative_Writing_The_Craft_of_Plot.pdf'
 description: '8h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-wesleyan'
 ---

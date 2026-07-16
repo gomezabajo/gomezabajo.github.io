@@ -10,4 +10,5 @@ organization_url: 'https://www.comillas.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2018_Estrategias_tutoriales_dificultades_aprendizaje_PUB.pdf'
 description: '110h. · Instituto de Ciencias de la Educación (ICE)'
 date_end: ''
+icon: 'org-comillas'
 ---
