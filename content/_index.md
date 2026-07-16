@@ -57,7 +57,7 @@ sections:
           company_logo: org-uam-full
           location: Madrid
           date_start: '2023-01-01'
-          date_end: '2025-31-01'
+          date_end: '2025-01-31'
           description: |2-
               Taught courses:
               * Operating Systems
