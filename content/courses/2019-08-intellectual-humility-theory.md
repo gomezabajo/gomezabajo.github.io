@@ -10,5 +10,5 @@ organization_url: 'https://www.ed.ac.uk'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2019_Intellectual_Humility_Theory.pdf'
 description: '14h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-edinburgh'
 ---

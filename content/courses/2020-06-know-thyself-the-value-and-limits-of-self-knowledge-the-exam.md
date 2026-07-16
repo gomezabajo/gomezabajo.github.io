@@ -10,5 +10,5 @@ organization_url: 'https://www.ed.ac.uk'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Know_Thyself_The_Examined_Life.pdf'
 description: '30h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-edinburgh'
 ---

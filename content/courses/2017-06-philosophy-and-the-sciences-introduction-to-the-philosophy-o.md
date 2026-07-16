@@ -10,5 +10,5 @@ organization_url: 'https://www.ed.ac.uk'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2017_Philosophy_Cognitive_Sciences.pdf'
 description: '7h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-edinburgh'
 ---
