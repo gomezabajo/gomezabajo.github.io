@@ -56,9 +56,7 @@ first_name: Pablo
 email: pablo.gomeza@uam.es
 ---
 
-## Biography
-
-**Pablo Gómez-Abajo** is an Associate Professor in the [Department of Computer Science](https://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/home.htm) at the [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/).
+[Pablo Gómez-Abajo](https://gomezabajo.github.io) is an Associate Professor in the [Department of Computer Science](https://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/home.htm) at the [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/).
 
 He earned his degree in Computer Science and Engineering from UAM in 2006. From 2008 to 2015, he worked as IT Manager at [Ingeniería y Prevención de Riesgos](https://imasp.net/). In this role, he developed solutions for professionals in other technical fields, including civil and mechanical engineering. This experience strengthened his ability to understand domain-specific requirements and design accessible, practical solutions.
 
