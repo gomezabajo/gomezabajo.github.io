@@ -6,8 +6,9 @@ title: 'Automatización de pruebas con Selenium y Cucumber'
 date: '2020-04-01'
 weight: 189
 organization: 'Consejo General de Colegios Profesionales de Ingeniería Informática'
-organization_url: ''
+organization_url: 'https://www.ccii.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Testing_Selenium_Cucumber_PUB.pdf'
 description: '10h. · CITIPA y COIIPA'
 date_end: ''
+icon: 'org-ccii'
 ---

@@ -10,5 +10,5 @@ organization_url: 'https://www.hse.ru'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Deep_Learning.pdf'
 description: '60h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-hse'
 ---

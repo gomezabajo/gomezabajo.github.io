@@ -10,5 +10,5 @@ organization_url: 'https://english.spbu.ru'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2020_Quantum_Computing.pdf'
 description: '20h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-spbu'
 ---
