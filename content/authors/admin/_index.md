@@ -66,7 +66,7 @@ Alongside his formal degrees, he has pursued extensive continuing education in m
 
 His principal research achievement is [Wodel](https://gomezabajo.github.io/Wodel/), a domain-independent language and technological ecosystem for model mutation. This work has led to [Wodel-Test](https://gomezabajo.github.io/Wodel-Test/) , for generating language-independent mutation-testing tools, and [Wodel-EDU](https://gomezabajo.github.io/Wodel-EDU/), for automatically generating and assessing diagram-based exercises. Wodel-EDU received the **Best Tool Demo Award at MoDELS 2021**, and its educational applications have been published in journals including [Computer Applications in Engineering Education](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22676). His research also includes [Gotten](https://g0tten.github.io/gotten/), a model-driven framework for engineering domain-specific metamorphic-testing environments.
 
-Since 2019, he has taught software engineering, software testing, compilers, automata theory, operating systems, and computer networks at UAM. He has also supervised several bachelor's capstone projects and published extensively in international journals, conferences, and workshops.
+Since 2019, he has taught software engineering, software testing, compilers, automata theory, operating systems, and computer networks at UAM. He has also supervised several bachelor's and master's capstone projects.
 
 Further information is available through his [Google Scholar profile](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en) and [GitHub repositories](https://github.com/gomezabajo).
 
