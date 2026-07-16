@@ -10,5 +10,5 @@ organization_url: 'https://www.lunduniversity.lu.se'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Artificial_intelligence_Ethics_challenges.pdf'
 description: '13h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-lund'
 ---

@@ -10,4 +10,5 @@ organization_url: 'https://www.pucv.cl'
 certificate_url: 'https://certificados.miriadax.net/55507f03-af57-46cf-b2fa-17574efbf859'
 description: '18h. · Miríada X'
 date_end: ''
+icon: 'org-pucv'
 ---

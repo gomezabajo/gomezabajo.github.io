@@ -10,5 +10,5 @@ organization_url: 'https://www.ibm.com'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2023_Cybersecurity_essentials.pdf'
 description: '14h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-ibm'
 ---

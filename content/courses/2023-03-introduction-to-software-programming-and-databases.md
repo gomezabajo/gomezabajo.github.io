@@ -10,5 +10,5 @@ organization_url: 'https://www.ibm.com'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2023_Software_programming_databases.pdf'
 description: '17h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-ibm'
 ---
