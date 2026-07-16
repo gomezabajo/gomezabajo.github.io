@@ -40,13 +40,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Associate Professor
+          company: Universidad Autónoma de Madrid
+          company_url: 'https://www.uam.es'
+          company_logo: org-uam-full
+          location: Madrid
+          date_start: '2025-02-01'
+          date_end: ''
+          description: |2-
+              Taught courses:
+              * Software Testing
+              * Software Analysis and Design
         - title: Assistant Professor
           company: Universidad Autónoma de Madrid
           company_url: 'https://www.uam.es'
           company_logo: org-uam-full
           location: Madrid
           date_start: '2023-01-01'
-          date_end: ''
+          date_end: '2025-31-01'
           description: |2-
               Taught courses:
               * Operating Systems
