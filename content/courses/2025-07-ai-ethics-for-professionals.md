@@ -10,5 +10,5 @@ organization_url: 'https://www.davidson.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2025_AI_Ethics.pdf'
 description: '4h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-davidson'
 ---

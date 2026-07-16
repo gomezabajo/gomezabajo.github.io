@@ -10,5 +10,5 @@ organization_url: 'https://www.unam.mx'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2026_Introduction_R.pdf'
 description: '20h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-unam'
 ---

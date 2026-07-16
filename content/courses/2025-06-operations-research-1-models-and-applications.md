@@ -10,5 +10,5 @@ organization_url: 'https://www.ntu.edu.tw'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2025_Operations_Research_I.pdf'
 description: '11h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-ntu'
 ---

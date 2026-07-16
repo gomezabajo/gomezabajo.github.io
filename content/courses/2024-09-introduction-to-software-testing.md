@@ -10,5 +10,5 @@ organization_url: 'https://www.umn.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2024_Software_Testing_I.pdf'
 description: '30h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-umn'
 ---

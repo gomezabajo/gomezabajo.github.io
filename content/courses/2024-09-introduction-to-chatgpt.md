@@ -10,5 +10,5 @@ organization_url: 'https://www.upv.es'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2024_Introduction_to_ChatGPT.pdf'
 description: '6h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-upv'
 ---

@@ -10,5 +10,5 @@ organization_url: 'https://www.epfl.ch'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2025_Linear_Optimization.pdf'
 description: '40h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-epfl'
 ---
