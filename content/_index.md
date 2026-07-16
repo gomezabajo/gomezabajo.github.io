@@ -43,7 +43,7 @@ sections:
         - title: Assistant Professor
           company: Universidad Autónoma de Madrid
           company_url: 'https://www.uam.es'
-          company_logo: org-uam
+          company_logo: org-uam-full
           location: Madrid
           date_start: '2023-01-01'
           date_end: ''
@@ -54,7 +54,7 @@ sections:
         - title: Predoctoral Assistant Professor
           company: Universidad Autónoma de Madrid
           company_url: 'https://www.uam.es'
-          company_logo: org-uam
+          company_logo: org-uam-full
           location: Madrid
           date_start: '2019-09-01'
           date_end: '2023-01-01'
@@ -66,7 +66,7 @@ sections:
         - title: Research Project Associate
           company: Universidad Autónoma de Madrid
           company_url: 'https://www.uam.es'
-          company_logo: org-uam
+          company_logo: org-uam-full
           location: Madrid
           date_start: '2015-03-01'
           date_end: '2019-09-01'
@@ -77,7 +77,7 @@ sections:
         - title: IT Manager
           company: Ingeniería y Prevención de Riesgos, S.L.
           company_url: 'https://imasp.net'
-          company_logo: org-imasp
+          company_logo: org-imasp-full
           location: Madrid
           date_start: '2008-07-21'
           date_end: '2015-03-01'
