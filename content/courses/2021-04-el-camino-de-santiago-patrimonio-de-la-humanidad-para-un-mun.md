@@ -10,4 +10,5 @@ organization_url: 'https://www.usc.gal'
 certificate_url: 'https://certificados.miriadax.net/b7ebb4f7-4958-4e42-946a-6f294b1fbe54'
 description: '25h. · Miríada X'
 date_end: ''
+icon: 'org-usc'
 ---

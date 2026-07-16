@@ -10,5 +10,5 @@ organization_url: 'https://www.stanford.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_Compilers.pdf'
 description: '70h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-stanford'
 ---

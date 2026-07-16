@@ -10,5 +10,5 @@ organization_url: 'https://www.uq.edu.au'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Anthropology.pdf'
 description: '36h. · edX'
 date_end: ''
-icon: 'edx'
+icon: 'org-uq'
 ---

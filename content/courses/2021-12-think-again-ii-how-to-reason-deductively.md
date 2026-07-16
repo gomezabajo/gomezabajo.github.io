@@ -10,5 +10,5 @@ organization_url: 'https://www.duke.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_Think_again_II_How_to_reason_deductively.pdf'
 description: '13h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-duke'
 ---

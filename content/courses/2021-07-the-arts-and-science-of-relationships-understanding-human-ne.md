@@ -10,5 +10,5 @@ organization_url: 'https://www.utoronto.ca'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_Human_needs.pdf'
 description: '24h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-toronto'
 ---

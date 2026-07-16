@@ -10,5 +10,5 @@ organization_url: 'https://www.stanford.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_COVID_Healthcare.pdf'
 description: '8h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-stanford'
 ---

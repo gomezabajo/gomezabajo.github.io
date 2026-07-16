@@ -10,5 +10,5 @@ organization_url: 'https://www.stanford.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2021_Love_social_justice.pdf'
 description: '28h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-stanford'
 ---

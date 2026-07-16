@@ -10,5 +10,5 @@ organization_url: 'https://www.duke.edu'
 certificate_url: 'https://www.gomezabajo.es/pablo/pdf/courses/2022_Think_again_IV_How_to_avoid_fallacies.pdf'
 description: '18h. · Coursera'
 date_end: ''
-icon: 'coursera'
+icon: 'org-duke'
 ---
